@@ -84,7 +84,7 @@ Customers were segmented based on **Lifetime Value (LTV)** derived from cumulati
 
 ### Output
 
-![alt text](image.png)
+![alt text ](images\image-1.png)
 
 ### Insights
 
@@ -113,7 +113,7 @@ Customers were grouped into cohorts based on **year of first purchase** to evalu
 * Normalized performance relative to cohort lifespan
 
 ### Output
-![alt text](image-1.png)
+![alt text ](images\image-2.png)
 
 ### Observations
 
