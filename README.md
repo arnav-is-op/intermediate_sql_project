@@ -114,7 +114,8 @@ Customers were grouped into cohorts based on **year of first purchase** to evalu
 * Normalized performance relative to cohort lifespan
 
 ### Output
-![alt text](image-1.png)
+<img width="1739" height="1257" alt="image" src="https://github.com/user-attachments/assets/0e7fbff5-c235-4e8b-b0b4-27ebf4376bc1" />
+
 
 ### Observations
 
