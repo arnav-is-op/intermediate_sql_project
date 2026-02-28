@@ -84,7 +84,7 @@ Customers were segmented based on **Lifetime Value (LTV)** derived from cumulati
 
 ### Output
 
-![customer_segmentation](image-1.png)
+![alt text](image.png)
 
 ### Insights
 
@@ -113,7 +113,7 @@ Customers were grouped into cohorts based on **year of first purchase** to evalu
 * Normalized performance relative to cohort lifespan
 
 ### Output
-![cohort_analysis](image-2.png)
+![alt text](image-1.png)
 
 ### Observations
 
@@ -143,7 +143,7 @@ Retention patterns were analyzed using customer purchase recency and cohort trac
 
 ### Output
 
-![customer retention analysis](image-3.png)
+![alt text](images/image-3.png)
 
 ### Observations
 
