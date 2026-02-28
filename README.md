@@ -84,7 +84,8 @@ Customers were segmented based on **Lifetime Value (LTV)** derived from cumulati
 
 ### Output
 
-![alt text](image.png)
+<img width="1080" height="1014" alt="image" src="https://github.com/user-attachments/assets/25fba863-a09d-4bb5-ad3e-92398bc1aa85" />
+
 
 ### Insights
 
