@@ -84,8 +84,7 @@ Customers were segmented based on **Lifetime Value (LTV)** derived from cumulati
 
 ### Output
 
-![alt text ](images\image-1.png)
-
+![Customer Segmentation](images/image-1.png)
 ### Insights
 
 * Revenue concentration is highly skewed toward a smaller customer segment.
@@ -113,7 +112,7 @@ Customers were grouped into cohorts based on **year of first purchase** to evalu
 * Normalized performance relative to cohort lifespan
 
 ### Output
-![alt text ](images\image-2.png)
+![Cohort Analysis](images/image-2.png)
 
 ### Observations
 
@@ -143,7 +142,7 @@ Retention patterns were analyzed using customer purchase recency and cohort trac
 
 ### Output
 
-![alt text ](images\image-3.png)
+![Retention Analysis](images/image-3.png)
 
 ### Observations
 
